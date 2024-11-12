@@ -1,0 +1,13 @@
+__queuestorage__
+
+func-app
+.DS_Store
+.history
+__pycache__
+.pytest_cache
+*.sh
+__azurite_db_queue*.*
+local.settings.json
+.python_packages
+.venv
+.vscode

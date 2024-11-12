@@ -1,0 +1,11 @@
+.venv
+exp.sh
+*.md
+__azurite*.*
+local.settings.json
+.history
+.venv
+.vscode
+__pycache__
+__queuestorage__
+azure-pipelines.yml
